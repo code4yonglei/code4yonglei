@@ -1,15 +1,10 @@
 ## Hej, I'm Y.-L. WANG 👋
 
 
-<hr>
-
-
 ## ⭐️ &nbsp;Github Star
 <img width="440px" height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=code4yonglei&count_private=true&show_icons=true&&theme=darcula"/>
 <img width="440px" height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code4yonglei&layout=compact&theme=darcula" />
 
-
-<br>
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,9 +17,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell-%23FFE953.svg?style=for-the-badge&logo=shell&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23DC322F.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-<hr>
 
 
 ## 🛳 &nbsp;Your ticket ID for this visit
