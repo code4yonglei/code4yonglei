@@ -5,8 +5,8 @@
 
 
 ## ⭐️ &nbsp;Github Star
-<img width="480px" height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=code4yonglei&count_private=true&show_icons=true&&theme=darcula"/>
-<img width="480px" height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code4yonglei&layout=compact&theme=darcula" />
+<img width="440px" height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=code4yonglei&count_private=true&show_icons=true&&theme=darcula"/>
+<img width="440px" height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code4yonglei&layout=compact&theme=darcula" />
 
 
 <br>
