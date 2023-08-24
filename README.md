@@ -1,6 +1,3 @@
-<script defer data-domain="github.com/code4yonglei" src="https://plausible.io/js/script.js"></script>
-
-
 ## Hej, I'm Y.-L. WANG 👋
 
 
