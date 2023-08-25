@@ -18,5 +18,10 @@
 ![Shell](https://img.shields.io/badge/shell-%23FFE953.svg?style=for-the-badge&logo=shell&logoColor=white)
 
 
+## My Activities
+[![Y.-L. Wang's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code4yonglei&theme=dracula)](https://github.com/code4yonglei/github-readme-activity-graph)
+
+
 ## 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/tzy13755126023/count.svg" />
+
