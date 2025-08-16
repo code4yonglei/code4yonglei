@@ -18,5 +18,3 @@
 ## My Activities
 [![Y.-L. Wang's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code4yonglei&theme=dracula)](https://github.com/code4yonglei/github-readme-activity-graph)
 
-## 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/tzy13755126023/count.svg" />
